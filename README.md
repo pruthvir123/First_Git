@@ -1,3 +1,3 @@
 # First_Git
 My First repo
-Author - Pruthvi
+Author - Pruthvi (My first Attempt on Git )
